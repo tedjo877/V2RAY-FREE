@@ -82,3 +82,7 @@ vless://4741a5aa-6194-4a8f-b835-bab48938368a@104.17.156.243:443/?type=ws&encrypt
 vless://615a1543-4888-4f1c-9147-30e3c9b1f637@104.17.157.243:443/?type=ws&encryption=none&host=aio.bexnxx.us.kg&path=%2Fvl%3D172.232.238.169&security=tls&sni=aio.bexnxx.us.kg&fp=randomized#%F0%9F%87%AE%F0%9F%87%A9%28ID%29
 vless://b9db846c-69c8-4914-80f5-7197a11d7674@104.17.158.243:443/?type=ws&encryption=none&host=aio.bexnxx.us.kg&path=%2Fvl%3D23.62.148.32&security=tls&sni=aio.bexnxx.us.kg&fp=randomized#%F0%9F%87%B8%F0%9F%87%AC%28SG%29
 vless://ea0295b1-c9f3-4143-91f2-a6ebf6caf46e@104.17.159.243:443/?type=ws&encryption=none&host=aio.bexnxx.us.kg&path=%2Fvl%3D8.223.39.101&security=tls&sni=aio.bexnxx.us.kg&fp=randomized#%F0%9F%87%AD%F0%9F%87%B0%28HK%29
+vless://12c77571-ed51-48a9-b15a-192c5b403f5e@104.17.3.81:443/?type=ws&encryption=none&host=bedebah.punya.workers.dev&path=%2Fvl%3D35.219.15.90&security=tls&sni=bedebah.punya.workers.dev&fp=randomized#edukasi
+vless://12c77571-ed51-48a9-b15a-192c5b403f5e@quiz.int.vidio.com:443/?type=ws&encryption=none&host=bedebah.punya.workers.dev&path=%2Fvl%3D35.219.15.90&security=tls&sni=bedebah.punya.workers.dev&fp=randomized#vidio
+vless://ae9092c2-0bd9-4eec-84c9-7fc35f7fcecd@104.17.3.81:443/?type=ws&encryption=none&host=aio.bexnxx.us.kg&path=%2Fvl%3D35.219.15.90&security=tls&sni=aio.bexnxx.us.kg&fp=randomized#edukasi
+vless://ae9092c2-0bd9-4eec-84c9-7fc35f7fcecd@104.22.5.240:443/?type=ws&encryption=none&host=bedebah.punya.workers.dev&path=%2Fvl%3D35.219.15.90&security=tls&sni=bedebah.punya.workers.dev&fp=randomized#vidio
